@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Axel Hernandez y Juan Pablo Toapanta
 #define ESTUDIANTES 5
 #define ASIGNATURAS 3
 
